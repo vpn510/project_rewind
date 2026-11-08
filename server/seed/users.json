@@ -1,0 +1,12 @@
+[
+  { "name": "Alex Morgan", "email": "alex@rewind.dev", "role": "admin" },
+  { "name": "Sam Rivera", "email": "sam@rewind.dev", "role": "developer" },
+  { "name": "Jordan Lee", "email": "jordan@rewind.dev", "role": "developer" },
+  { "name": "Taylor Kim", "email": "taylor@rewind.dev", "role": "developer" },
+  { "name": "Casey Patel", "email": "casey@rewind.dev", "role": "developer" },
+  { "name": "Morgan Chen", "email": "morgan@rewind.dev", "role": "developer" },
+  { "name": "Riley Brooks", "email": "riley@rewind.dev", "role": "developer" },
+  { "name": "Jamie Park", "email": "jamie@rewind.dev", "role": "developer" },
+  { "name": "Avery Quinn", "email": "avery@rewind.dev", "role": "developer" },
+  { "name": "Drew Foster", "email": "drew@rewind.dev", "role": "developer" }
+]

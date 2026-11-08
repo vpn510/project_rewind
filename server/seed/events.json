@@ -1,0 +1,6 @@
+[
+  { "eventType": "code_changed", "title": "Updated validation and error handling" },
+  { "eventType": "error_logged", "title": "First error observed" },
+  { "eventType": "note_added", "title": "Investigation note added" },
+  { "eventType": "commit_added", "title": "Follow-up commit recorded" }
+]

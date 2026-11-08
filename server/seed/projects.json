@@ -1,0 +1,10 @@
+[
+  { "name": "E-Commerce Application", "description": "A storefront built around a calm, reliable shopping experience.", "technologies": ["React", "Node.js", "MongoDB"] },
+  { "name": "Student Management System", "description": "Tools for educators to keep student records and coursework in sync.", "technologies": ["React", "Express", "PostgreSQL"] },
+  { "name": "Food Delivery Application", "description": "Ordering, dispatch, and delivery status across a busy service.", "technologies": ["React Native", "Node.js", "MongoDB"] },
+  { "name": "Authentication System", "description": "Shared identity, session, and access controls for the platform.", "technologies": ["Node.js", "JWT", "Redis"] },
+  { "name": "Blog Management Platform", "description": "A writing and publishing workspace for distributed editorial teams.", "technologies": ["React", "Express", "MongoDB"] },
+  { "name": "Task Management Application", "description": "A lightweight way for teams to coordinate the work that matters.", "technologies": ["React", "Node.js", "Socket.IO"] },
+  { "name": "Banking Dashboard", "description": "Account views and transaction insights for a digital banking product.", "technologies": ["React", "TypeScript", "Node.js"] },
+  { "name": "Inventory Management System", "description": "Stock, orders, and warehouse operations in one clear view.", "technologies": ["React", "Express", "MongoDB"] }
+]
